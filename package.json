@@ -8,7 +8,9 @@
     "server": "nodemon index.js"
   },
   "dependencies": {
+    "experss": "0.0.1-security",
     "knex": "^0.20.7",
+    "server": "^1.0.22",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
